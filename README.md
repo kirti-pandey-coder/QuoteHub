@@ -19,7 +19,7 @@ A modern React Native quotes app built with **React Native CLI**. The app fetche
 
 ## 📸 Screenshots
 
-![QuoteHub Preview](assets/screenshot.png)
+![Preview](src/assets/screenshots/preview.jpg)
 
 ---
 
